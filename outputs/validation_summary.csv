@@ -1,0 +1,12 @@
+component,metric,result,decision
+PIT PD,TEST AUC,0.8972,PASS
+PIT PD,TEST calibrated Brier,0.0294,PASS
+PIT PD,TEST PSI,0.0825,PASS / monitor
+LGD,TEST RMSE,0.0688,PASS
+LGD,TEST MAE,0.0512,PASS
+EAD/CCF,Product x horizon governance,9/9,PASS
+Staging / scenarios,Governance checks,3/3,PASS
+Lifetime ECL,Governance gates,5/5,PASS
+Monitoring mart,Governance gates,3/3,PASS
+Python challenger,R2,0.9781,PASS as surrogate
+Python challenger,Aggregate difference,+0.17%,PASS

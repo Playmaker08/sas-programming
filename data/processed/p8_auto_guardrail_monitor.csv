@@ -1,0 +1,4 @@
+stage,auto_accounts,guarded_accounts,guarded_share,avg_raw_collateral_coverage,avg_used_collateral_coverage,avg_lgd_before,avg_lgd_after,med_lgd_before,med_lgd_after
+1,4805,1089,22.66%,3.248,1.367,14.784%,15.858%,14.626%,14.630%
+2,399,277,69.42%,3.984,1.738,7.139%,10.828%,0.575%,6.519%
+3,16,1,6.25%,1.191,1.107,23.690%,24.137%,22.911%,22.911%

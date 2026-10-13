@@ -1,0 +1,4 @@
+stage,stage_label,accounts,account_share,exposure,exposure_share,weighted_ecl,ecl_share,allowance_rate,avg_current_pd,avg_orig_pd,avg_pd_ratio,med_pd_ratio,avg_lgd
+1,Stage 1 - Performing,13658,91.24%,"$122,449,452",94.59%,"$1,286,684",44.08%,1.051%,2.259%,2.930%,0.75,0.70,63.511%
+2,Stage 2 - SICR,1251,8.36%,"$6,487,466",5.01%,"$1,387,464",47.53%,21.387%,18.458%,4.877%,7.55,3.84,66.132%
+3,Stage 3 - Credit-impaired,61,0.41%,"$522,055",0.40%,"$244,788",8.39%,46.889%,78.480%,14.667%,21.26,10.56,75.529%
